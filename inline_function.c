@@ -1,4 +1,5 @@
-/// @bbrief Program to demostrate inline function nedds to be declared as static
+/// @brief Program to demostrate inline function nedds to be declared as static
+/// Advantage of inline function over macro, same square function logic is defined using macro in macro.c
 
 #include <time.h>
 #include <stdlib.h>
